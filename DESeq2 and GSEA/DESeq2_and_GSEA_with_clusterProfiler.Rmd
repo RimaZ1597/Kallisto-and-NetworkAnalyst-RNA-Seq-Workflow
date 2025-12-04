@@ -1,5 +1,5 @@
 ---
-title: "BINF6420: DESeq2 and GSEA with clusterProfiler"
+title: "DESeq2 and GSEA with clusterProfiler"
 author: "Rima Zinjuwadia"
 date: "`r format(Sys.time(), '%Y-%m-%d')`"
 output:
